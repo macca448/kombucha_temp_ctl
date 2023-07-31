@@ -9,7 +9,7 @@
   5.  2 x DS18B20 Temperature sensors
   6.  1 x 50mm Radial Fan
   7.  AC light switch for AC isolation.
-  8.  misc waire and hardeware
+  8.  misc wire and hardeware
 
 ## How it Works
 Heat ON temp is when chamber sensor temp is 26 degC
