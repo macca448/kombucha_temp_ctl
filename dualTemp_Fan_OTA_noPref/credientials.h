@@ -4,5 +4,5 @@
  
 // Your WiFi credentials.
 // Set password to "" for open networks.
-const char* ssid     = "MillFlat_El_Rancho";
-const char* password = "140824500925";
+const char* ssid     = "Your_SSID";
+const char* password = "SSID_Password";
