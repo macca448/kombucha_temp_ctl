@@ -26,5 +26,14 @@
 
 `a 75W incandesecent lamp is all that was needed for the heater.`
 
+## Work in Progress
+#### New version now with
+
+`1. A network check and reboot / restore if lost`
+
+`2. Uses "Preferences.h" to stores variables to NVS in case of power loss`
+
+`3. OTA Updates`
+
 #### What it looks like
 ![kombucha brewing chamber](https://github.com/macca448/kombucha_temp_ctl/blob/main/assets/kombucha_brewing.jpg)
